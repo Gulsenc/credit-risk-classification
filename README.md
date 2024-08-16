@@ -1,6 +1,7 @@
 **Credit Risk Analysis Report
 **
 Overview of the Analysis
+
 This analysis aims to create a machine learning model to predict if a borrower might default on a loan. The model uses past loan data to classify loans as either "healthy" or "high-risk." This helps the company manage credit risk, make better lending decisions, and reduce financial losses.
 
 Model Performance
